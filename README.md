@@ -1,2 +1,4 @@
 # portfolio-2019
-Potential portfolio redesign
+
+## Initial Thoughts
+* Minimalistic theme with dark mode integration
